@@ -17,7 +17,10 @@
   💻 I love Writing code, Hardware and learning anything about them 😊
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="http://www.linkedin.com/samuel-aidoo-68288116a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:samuelaidoo45@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>  
+<p align="center"> <a href="http://www.linkedin.com/samuel-aidoo-68288116a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
+  <a href="mailto:samuelaidoo45@gmail.com "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>  
+  <a href="https://twitter.com/_samuelaidoo"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height=23></a>
+
 <!--   <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
 </p>
 <hr>
